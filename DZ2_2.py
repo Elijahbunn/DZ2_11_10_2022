@@ -1,6 +1,3 @@
-from re import I
-
-
 number = int(input('Enter number: '))
 product = 1
 i = 1
